@@ -1,25 +1,25 @@
 {
-    "name": "Zora Network Token List",
-    "logoURI": "ipfs://QmUm7zDkuH8jq7mnVVPjgteubXvTQYHQXa7FoivyRLsE8t",
+    "name": "ZORB",
+    "logoURI": "embed.ipfscdn.io/ipfs/bafybeigdie2yyiazou7grjowoevmuip6akk33nqb55vrpezqdwfssrxyfy/erc20.html?contract=0xF39E0FfA0caE83ee47fa7F82979Cc2b3F5Ae73eb&chain=%7B%22name%22%3A%22Zora%22%2C%22chain%22%3A%22ETH%22%2C%22rpc%22%3A%5B%22https%3A%2F%2F7777777.rpc.thirdweb.com%2F%24%7BTHIRDWEB_API_KEY%7D%22%5D%2C%22nativeCurrency%22%3A%7B%22name%22%3A%22Ether%22%2C%22symbol%22%3A%22ETH%22%2C%22decimals%22%3A18%7D%2C%22shortName%22%3A%22zora%22%2C%22chainId%22%3A7777777%2C%22testnet%22%3Afalse%2C%22slug%22%3A%22zora%22%2C%22icon%22%3A%7B%22url%22%3A%22ipfs%3A%2F%2FQmZ6qaRwTPFEZUspwMUjaxC6KhmzcELdRQcQzS3P72Dzts%2FVector.svg%22%2C%22width%22%3A512%2C%22height%22%3A512%2C%22format%22%3A%22svg%22%7D%7D&clientId=b39afff1ee667a925a1b987c0c3d671a&theme=light&primaryColor=purple",
     "keywords": [
       "audited",
       "verified",
       "special tokens"
     ],
     "tags": {
-      "stablecoin": {
-        "name": "Stablecoin",
-        "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+      "token": {
+        "name": "token",
+        "description": "This is a zorb token. it will be distributed to zorb holders"
       }
     },
     "timestamp": "2024-02-22T00:00:00+00:00",
     "tokens": [
         {
         "chainId": 7777777,
-        "address": "0x4200000000000000000000000000000000000006",
+        "address": "0xF39E0FfA0caE83ee47fa7F82979Cc2b3F5Ae73eb",
         "decimals": 18,
-        "name": "Wrapped Ether",
-        "symbol": "WETH"
+        "name": "ZORB",
+        "symbol": "ZORB"
       }
     ],
     "version": {
